@@ -18,7 +18,7 @@ A simple thing to do is to follow the instructions [here](https://learn.microsof
 
 The download is found [here](https://git-scm.com/download/win), and setup is relatively simple. 
 
-During the setup, one option you'll want to look out for is called *Configuring the terminal emulator to use with Git Bash*. Personally, I would rather use Windows' default console window over MinTTY, but it's up to your preference.
+During the setup, one option you'll want to look out for is called **Configuring the terminal emulator to use with Git Bash**. Personally, I would rather use Windows' default console window over MinTTY, but it's up to your preference.
 
 For everything else in the setup, I chose to leave them as the default options. If you want to be more careful, you can read through them, but I'm just telling you what I did.
 
